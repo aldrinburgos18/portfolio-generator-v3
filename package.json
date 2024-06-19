@@ -1,0 +1,23 @@
+{
+  "name": "module-7---node",
+  "version": "3.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldrinburgos18/portfolio-generator-v3.git"
+  },
+  "author": "Aldrin Burgos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldrinburgos18/portfolio-generator-v3/issues"
+  },
+  "homepage": "https://github.com/aldrinburgos18/portfolio-generator-v3#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  }
+}
